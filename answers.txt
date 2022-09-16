@@ -27,10 +27,10 @@ hs_err_pid*
 
 
 • What does fast-forward in git mean?
-Fast forward means to update the HEAD pointer in such a way that its new value is a direct descendant of the prior value.
+When we update the HEAD pointer in such a way that its new value is a direct descendant of the prior value, then that process is known as fast-forward
 
 • Why should youhavedifferent branches?
 We should have different branches to enable collaboration among multiple people and also ensure that the master branch is safe from unwanted commits.
 
 • In a project how many remote Git repositories do you usually have?
-Three
+We can have as many repositories as we need. But we usually have one.
